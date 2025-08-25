@@ -22,7 +22,7 @@ No es una copia completa del libro, sino únicamente aquellas partes y capítulo
 
 - Practicar el **flujo completo de análisis de datos en Python**.  
 - Familiarizarme con las herramientas fundamentales antes de avanzar hacia **machine learning con scikit-learn**.  
-
+ 
 ---
 
 ## ⚙️ Requisitos
